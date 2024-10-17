@@ -37,7 +37,9 @@ For any questions, please contact me with the information below:
 
 GitHub: [pink72789](https://github.com/pink72789)
 
-video: https://www.youtube.com/watch?v=6zgwZ_W7wzk
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zgwZ_W7wzk" frameborder="0" allowfullscreen></iframe>
 
 Email: doc72789@gmail.com
 © 2024 pink72789. All Rights Reserved.
