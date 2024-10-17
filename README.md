@@ -35,7 +35,8 @@ no tests at this time
 ## Questions
 For any questions, please contact me with the information below:
 
-GitHub: [pink72789](https://github.com/pink72789)
+GitHub: [pink727](https://github.com/pink727)
+
 Email: doc72789@gmail.com
 
 ### Video
@@ -45,5 +46,5 @@ In this video, we walk through the steps to use the ReadMe Generator. You'll lea
 [Watch the video on YouTube](https://www.youtube.com/watch?v=6zgwZ_W7wzk)
 
 ______________________________________
-© 2024 pink72789. All Rights Reserved.
+© 2024 pink727. All Rights Reserved.
 
