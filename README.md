@@ -39,7 +39,9 @@ GitHub: [pink72789](https://github.com/pink72789)
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zgwZ_W7wzk" frameborder="0" allowfullscreen></iframe>
+In this video, we walk through the steps to use the ReadMe Generator. You'll learn how to install the necessary packages, run the program, and customize the generated README file for your project.
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=6zgwZ_W7wzk)
 
 Email: doc72789@gmail.com
 © 2024 pink72789. All Rights Reserved.
